@@ -4,5 +4,5 @@
 
 #### Slike konacnog rjesenja (android verzija):
 
-![home screen](https://raw.githubusercontent.com/ivanrezic/changecode/master/first.png){:height="768px" width="432px"}
+![home screen](https://raw.githubusercontent.com/ivanrezic/changecode/master/screenshots/firstR.png)
 
