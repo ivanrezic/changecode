@@ -4,4 +4,4 @@
 
 #### Slike konacnog rjesenja (android verzija):
 
-![home screen](https://raw.githubusercontent.com/ivanrezic/changecode/master/first.png=432x768)
+![home screen](https://raw.githubusercontent.com/ivanrezic/changecode/master/first.png=768x432)
